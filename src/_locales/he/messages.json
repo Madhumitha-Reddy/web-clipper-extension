@@ -118,7 +118,7 @@
 		"message": "סגור"
 	},
 	"commandOpenClipper": {
-		"message": "פתח את Obsidian Clipper"
+		"message": "פתח את Web Clipper"
 	},
 	"commandQuickClip": {
 		"message": "גזירה מהירה"
@@ -202,7 +202,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/Obsidian/Early+access+versions\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			}
 		}
 	},
@@ -237,7 +237,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/web-clipper/interpreter\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			},
 			"strong_end": {
 				"content": "</strong>"
@@ -286,7 +286,7 @@
 		"message": "שמור תוכן מהאינטרנט בפורמט פרטי ובר-קיימא שניתן לגשת אליו במצב לא מקוון. הרחבת הדפדפן הרשמית של Obsidian."
 	},
 	"extensionName": {
-		"message": "Obsidian Web Clipper"
+		"message": "Web Clipper"
 	},
 	"failedToCopyText": {
 		"message": "נכשל בהעתקת טקסט"

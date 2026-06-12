@@ -118,7 +118,7 @@
 		"message": "Lukk"
 	},
 	"commandOpenClipper": {
-		"message": "Åpne Obsidian Clipper"
+		"message": "Åpne Web Clipper"
 	},
 	"commandQuickClip": {
 		"message": "Hurtigklipp"
@@ -202,7 +202,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/Obsidian/Early+access+versions\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			}
 		}
 	},
@@ -237,7 +237,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/web-clipper/interpreter\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			},
 			"strong_end": {
 				"content": "</strong>"
@@ -286,7 +286,7 @@
 		"message": "Lagre webinnhold i et privat og varig format som kan nås offline. Den offisielle nettleserutvidelsen for Obsidian."
 	},
 	"extensionName": {
-		"message": "Obsidian Web Clipper"
+		"message": "Web Clipper"
 	},
 	"failedToCopyText": {
 		"message": "Kunne ikke kopiere tekst"

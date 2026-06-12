@@ -118,7 +118,7 @@
 		"message": "Isara"
 	},
 	"commandOpenClipper": {
-		"message": "Buksan ang Obsidian Clipper"
+		"message": "Buksan ang Web Clipper"
 	},
 	"commandQuickClip": {
 		"message": "Quick clip"
@@ -202,7 +202,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/Obsidian/Early+access+versions\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			}
 		}
 	},
@@ -237,7 +237,7 @@
 				"content": "</a>"
 			},
 			"link_start": {
-				"content": "<a href=\"https://help.obsidian.md/web-clipper/interpreter\" target=\"_blank\">"
+				"content": "<a href=\"#\" target=\"_blank\">"
 			},
 			"strong_end": {
 				"content": "</strong>"
@@ -286,7 +286,7 @@
 		"message": "I-save ang web content sa pribado at pangmatagalang format, na maaaring ma-access offline. Ang opisyal na browser extension para sa Obsidian."
 	},
 	"extensionName": {
-		"message": "Obsidian Web Clipper"
+		"message": "Web Clipper"
 	},
 	"failedToCopyText": {
 		"message": "Hindi makopya ang text"

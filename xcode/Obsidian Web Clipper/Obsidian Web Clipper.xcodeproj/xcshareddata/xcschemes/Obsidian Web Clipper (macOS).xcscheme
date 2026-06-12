@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7AEF058C2CA0F50D005FFBC2"
-               BuildableName = "Obsidian Web Clipper.app"
-               BlueprintName = "Obsidian Web Clipper (macOS)"
-               ReferencedContainer = "container:Obsidian Web Clipper.xcodeproj">
+               BuildableName = "Web Clipper.app"
+               BlueprintName = "Web Clipper (macOS)"
+               ReferencedContainer = "container:Web Clipper.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7AEF058C2CA0F50D005FFBC2"
-            BuildableName = "Obsidian Web Clipper.app"
-            BlueprintName = "Obsidian Web Clipper (macOS)"
-            ReferencedContainer = "container:Obsidian Web Clipper.xcodeproj">
+            BuildableName = "Web Clipper.app"
+            BlueprintName = "Web Clipper (macOS)"
+            ReferencedContainer = "container:Web Clipper.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7AEF058C2CA0F50D005FFBC2"
-            BuildableName = "Obsidian Web Clipper.app"
-            BlueprintName = "Obsidian Web Clipper (macOS)"
-            ReferencedContainer = "container:Obsidian Web Clipper.xcodeproj">
+            BuildableName = "Web Clipper.app"
+            BlueprintName = "Web Clipper (macOS)"
+            ReferencedContainer = "container:Web Clipper.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

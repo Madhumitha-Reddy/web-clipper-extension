@@ -1,7 +1,7 @@
 ---
 permalink: web-clipper/troubleshoot
 ---
-If you encounter issues with [[Introduction to Obsidian Web Clipper|Web Clipper]] you can get help via the [official Discord channel](https://discord.com/channels/686053708261228577/1285652864089198672). You can also report bugs on the [GitHub repo](https://github.com/obsidianmd/obsidian-clipper).
+If you encounter issues with [[Introduction to Web Clipper|Web Clipper]] you can get help via the [official Discord channel](https://discord.com/channels/686053708261228577/1285652864089198672). You can also report bugs on the [GitHub repo](https://github.com/Madhumitha-Reddy/web-clipper-extension).
 
 ## General
 
@@ -15,7 +15,7 @@ To bypass Defuddle in Web Clipper use the following methods:
 
 - Select text, or use `Cmd/Ctrl+A` to select all text.
 - [[Highlight web pages|Highlight content]] to choose exactly what you want to capture.
-- Use a [[Obsidian Web Clipper/Templates|custom template]] for the site.
+- Use a [[Web Clipper/Templates|custom template]] for the site.
 
 ### No content appears in Obsidian
 
@@ -45,7 +45,7 @@ misc {
 }
 ```
 
-- If you use Flatpak consider trying an [officially supported Obsidian version](https://obsidian.md/download).
+- If you use Flatpak consider trying an [officially supported Obsidian version](#).
 - As a fallback, try switching to **Legacy mode** in **Web Clipper Settings** → **General**. This will bypass the clipboard and save content directly via URI. Note that this will limit the number of characters that can be clipped depending on your browser and Linux distribution.
 
 ## iOS and iPadOS
@@ -54,7 +54,7 @@ To enable the Web Clipper extension for Safari:
 
 1. Go to Safari, tap the leftmost button in the browser URL bar, it looks like a rectangle with lines beneath it.
 2. Tap **Manage Extensions**.
-3. Enable **Obsidian Web Clipper** in the Extensions list.
+3. Enable **Web Clipper** in the Extensions list.
 4. Exit the menu.
 5. To use the extension **tap the puzzle piece icon** in the URL bar.
 

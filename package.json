@@ -1,9 +1,9 @@
 {
-	"name": "obsidian-clipper",
+	"name": "web-clipper-extension",
 	"version": "1.6.3",
-	"description": "Official web clipper for Obsidian.",
+	"description": "Web Clipper.",
 	"bin": {
-		"obsidian-clipper": "./dist/cli.cjs"
+		"web-clipper-extension": "./dist/cli.cjs"
 	},
 	"files": [
 		"dist"
